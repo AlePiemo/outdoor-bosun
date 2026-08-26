@@ -1,7 +1,7 @@
 # outdoor-bosun
 sistema software di supporto decisionale personalizzato per il trekking
 
-A partire da una traccia gpx e dal profilo fisico dell'utente (età, altezza, peso, allenamento), il sistema fornisce dettagli e consigliper l'utente su 5 sezioni differenti, ma comunicanti tra loro:
+A partire da una traccia gpx e dal profilo fisico dell'utente (età, altezza, peso, allenamento), il sistema fornisce dettagli e consigli per l'utente su 5 sezioni differenti, ma comunicanti tra loro:
 
 - **dati tecnici percorso**: distanza, dislivello totale e parziale, profilo altimetrico, possibilità di dormire in tenda (comunica eventuali restrizioni a causa di aree protette dove è vietato il campeggio e il bivacco)
   
