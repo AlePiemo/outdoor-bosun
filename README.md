@@ -12,6 +12,6 @@ A partire da una traccia gpx e dal profilo fisico dell'utente (età, altezza, pe
   
 - **gestione energia**: calcola che tipo di powerbank o caricatore portare in base ai dispositivi utilizzati e all frequenza d'uso.
   
-- **gestione attrezatura**: in base alle sezioni precedenti, al meteo e altipo di pernotto (tenda, rifugio) fornisce una lista di attrezzatura utile al trekking, la suddivide nelle categorie essenziali (notte/shelter; cucina; primo soccorso; beautycase; abbigliamento; acqua; cibo; elettronica) e fornisce un range di peso adatto per ogni categoria, oltre al peso complessivo dello zaino.
+- **gestione attrezzatura**: in base alle sezioni precedenti, al meteo e altipo di pernotto (tenda, rifugio) fornisce una lista di attrezzatura utile al trekking, la suddivide nelle categorie essenziali (notte/shelter; cucina; primo soccorso; beautycase; abbigliamento; acqua; cibo; elettronica) e fornisce un range di peso adatto per ogni categoria, oltre al peso complessivo dello zaino.
   { Deve essere possibile inserire il proprio peso reale in modo tale da far confrontare il modello generato con lo zaino reale fatto per poter ricevere consigli su come alleggerire lo zaino o aumentare la comodità o altro (tramite AI) }
 
